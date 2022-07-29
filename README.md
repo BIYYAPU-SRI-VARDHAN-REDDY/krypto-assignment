@@ -1,1 +1,1 @@
-# krypto-assignment
+# krypto-Frontend assignment
